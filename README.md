@@ -10,7 +10,7 @@
 
 更加遗憾的是，除了小部分的教授以外，多数教授在讲解相关知识的时候都是蜻蜓点水或阅读Slides，更使同学完全失去了对这一领域的兴趣和理解。甚至对于统一的课件上的一些问题，授课教师本人尚且不能回答。
 
-2017年图灵奖得主John Hennessy和David Patterson，在2019年的一篇文章指出，未来十年，将是[计算机体系结构的黄金十年](https://www.doc.ic.ac.uk/~wl/teachlocal/arch/papers/cacm19golden-age.pdf)。
+2017年图灵奖得主 John Hennessy 和 David Patterson ，在2019年的一篇文章指出，未来十年，将是[计算机体系结构的黄金十年](https://www.doc.ic.ac.uk/~wl/teachlocal/arch/papers/cacm19golden-age.pdf)。
 
 华人作为国际科研合作中不可忽视的力量，语言不应该成为最大的障碍。一本完善的、自顶向下的教程，有助于华人在体系结构的 Golden Age 中贡献自己的力量。
 
